@@ -1,3 +1,4 @@
+/* Global Styles */
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
@@ -24,6 +25,7 @@ main {
   padding: 0 15px;
 }
 
+/* Form Styles */
 form {
   display: flex;
   flex-direction: column;
@@ -54,6 +56,7 @@ button:hover {
   background: #365899;
 }
 
+/* Newsfeed */
 #feed {
   margin-top: 20px;
 }
